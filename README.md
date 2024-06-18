@@ -1,8 +1,8 @@
 # CPADTeam06
 CPADTeam06
 
-Pranjal Bankawat - 2021HS70020
-Mahima M Nayak - 2021HS70028
+- Pranjal Bankawat - 2021HS70020
+- Mahima M Nayak - 2021HS70028
 
 # RentWheels App
 
