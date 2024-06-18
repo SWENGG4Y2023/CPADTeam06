@@ -1,6 +1,9 @@
 # CPADTeam06
 CPADTeam06
 
+Pranjal Bankawat - 2021HS70020
+Mahima M Nayak - 2021HS70028
+
 # RentWheels App
 
 Welcome to the RentWheels App repository! This is a mobile application built using React Native, Sanity.io, and Socket.io. The app allows users to browse and rent cars, chat with other users and car renters, and explore various settings and search options.
